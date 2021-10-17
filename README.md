@@ -12,7 +12,7 @@ Successfully deployable in local host environment with XAMPP and phpMyAdmin.
 Developed with Visual Studio Code, XAMPP and Edge (Chromium version). 
 
 ## Features
-
+![Image of Screenshot](https://raw.githubusercontent.com/ahuckphin/Yes-Asset-Manager/picture-branch/screenshot%20of%20landing%20page.png)
 ### 0. Index
 Simple landing page with links to other pages plus disclaimers. 
 
