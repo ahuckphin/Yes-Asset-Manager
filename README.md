@@ -128,3 +128,10 @@ CREATE TABLE `refurbishmentlog` (
 
 ## Background
 This application was developed after dissatisfaction towards limitations alternative available applications posed. 
+
+
+## Coming Soon Improvements
+
+* Yes Asset Manager User Guides
+* Redesigned add asset page 
+* User account implementation  
